@@ -3,6 +3,12 @@ package org.cj.java.training.essential.exception;
 import java.io.Closeable;
 import java.io.IOException;
 
+/**
+ * Java 7 Automatic Resource Management Feature
+ * The try-with-resources statement is a try statement that declares one or more resources.
+ * @author chathuranga
+ *
+ */
 public class ExceptionHandlingApp {
 
 	/**
